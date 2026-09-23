@@ -1,0 +1,15 @@
+langchain-community
+langchain
+transformers
+chromadb
+sentence-transformers
+langchain-core
+streamlit
+requests
+beautifulsoup4
+unstructured[docx]
+langchain-unstructured 
+langchain-huggingface
+pymupdf
+pdfplumber
+pytesseract
